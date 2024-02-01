@@ -1,0 +1,13 @@
+.square {
+  width: 80px;
+  height: 80px;
+  border: 1px solid red;
+}
+
+.lightSquare {
+  background-color: var(--light-square);
+}
+
+.darkSquare {
+  background-color: var(--dark-square);
+}
