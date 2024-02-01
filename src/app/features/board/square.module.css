@@ -1,7 +1,7 @@
 .square {
   width: 80px;
   height: 80px;
-  border: 1px solid red;
+  border: 2px solid var(--square-outline);
 }
 
 .lightSquare {
